@@ -1,1 +1,2 @@
-# atv_clojure1
+# Atividade Clojure
+Igor Costa RA: 23215764-2
